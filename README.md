@@ -1,5 +1,8 @@
 Spring Boot, JPA 사용
 <hr>
+
+![jpashop](https://user-images.githubusercontent.com/87554077/127771627-4cf4daeb-9a5b-4dd3-b3e6-7ae017e93ead.PNG)
+<br>
 <h2>기능목록</h2>
 
 * 회원 기능
